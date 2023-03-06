@@ -21,7 +21,7 @@ It is quite simple to do a page redirect using JavaScript at client side. To red
       <script type = "text/javascript">
          <!--
             function Redirect() {
-               window.location = "https://www.tutorialspoint.com";
+               window.location = "https://www.google.com";
             }
          //-->
       </script>
@@ -46,7 +46,7 @@ You can show an appropriate message to your site visitors before redirecting the
       <script type = "text/javascript">
          <!--
             function Redirect() {
-               window.location = "https://www.tutorialspoint.com";
+               window.location = "https://www.google.com";
             }            
             document.write("You will be redirected to main page in 10 sec.");
             setTimeout('Redirect()', 10000);
