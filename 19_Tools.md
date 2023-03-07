@@ -93,6 +93,8 @@ function openCity(evt, cityName) {
 ```
 
 # Login Page
+
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -268,7 +270,7 @@ window.onclick = function(event) {
 
 </body>
 </html>
-
+```
 # Accordion
 
 ```html
